@@ -1,7 +1,7 @@
 
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
-@import "http://fonts.googleapis.com/css?family=Roboto:400,300,500&subset=latin,cyrillic";
+@import "//fonts.googleapis.com/css?family=Roboto:400,300,500&subset=latin,cyrillic";
 
 @font-face {
   font-family: 'Nucleo Glyph';
@@ -30,7 +30,7 @@ body {
 #page-wrapper {
     min-height: 100%;
     /* equal to footer height */
-    margin-bottom: -147.5px; 
+    margin-bottom: -147.5px;
 
 }
 
@@ -40,7 +40,7 @@ body {
 }
 
 #footer, .page-wrapper:after {
-  height: 147.5px; 
+  height: 147.5px;
 }
 
 
@@ -615,7 +615,7 @@ body.index .background {
     text-align: left;
     font-weight: bolder;
 }
-    
+
 
 .myButton:hover {
     background-color:#5cbf2a;
@@ -9528,8 +9528,3 @@ icons
 .nc-icon-glyph.arrows-3_super-bold-up:before {
   content: "\eb4e";
 }
-
-
-
-
-
