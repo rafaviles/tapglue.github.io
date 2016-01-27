@@ -1,7 +1,8 @@
 
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
-@import "//fonts.googleapis.com/css?family=Roboto:400,300,500&subset=latin,cyrillic";
+@import "//fonts.googleapis.com/css?family=Roboto:400,300,500,700&subset=latin,cyrillic";
+@import "//fonts.googleapis.com/css?family=Lato:300,400,500,700&subset=latin,latin-ext";
 
 @font-face {
   font-family: 'Nucleo Glyph';
